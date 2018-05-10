@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Project 3"
+title:  "Project 2"
 date:   2015-03-06 08:15:03
-categories: project
+categories: blog
 featured: true
 featured_image: '/images/project.png'
+tags: code inspiration
 ---
 
 ## Aestu illis Somnia

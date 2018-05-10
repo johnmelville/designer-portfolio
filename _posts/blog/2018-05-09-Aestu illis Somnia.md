@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Project 2"
+title:  "Project 1"
 date:   2015-03-06 08:15:03
-categories: project
+categories: blog
 featured: true
+tags: layout design
 featured_image: '/images/project.png'
 ---
 

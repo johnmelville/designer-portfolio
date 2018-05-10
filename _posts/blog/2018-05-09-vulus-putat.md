@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Project 1"
-date:   2015-03-06 08:15:03
-categories: project
+title:  "Vulus putat"
+date:   2015-03-04 08:15:03
+categories: blog
 featured: true
-featured_image: '/images/project.png'
+tags: snippet
 ---
 
 ## Aestu illis Somnia
